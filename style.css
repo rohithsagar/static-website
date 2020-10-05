@@ -7,4 +7,35 @@
     width: 100%;
     min-height: 100vh;
     background: radial-gradient(#768aff,#0f228a);
+    position: relative;
+    color: #fff;
+}
+.logo{
+    margin-left: 7%;
+    height: 90px;
+}
+.content{
+    max-width: 600px;
+    margin-left: 15%;
+    position: relative;
+    margin-top: 10%;
+}
+.content h1{
+    font-size: 70px;
+    margin: 10px 0;
+    font-weight: 100;
+}
+.content h2{
+    font-size: 80px;
+    margin: 10px 0;
+    opacity: 0.6;
+}
+.content p{
+    font-size: 12px;
+    color: #cccccc;
+    margin: 18px 0;
+    line-height: 18px;
+}
+.link{
+    color: #fff;
 }
